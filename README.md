@@ -1,9 +1,9 @@
 # P62-ADGS-PPW
 # UPS 
 
-# CARRERA COMPUTACION
+ CARRERA COMPUTACION
 
-# DANIEL GUEVARA 
+ DANIEL GUEVARA 
 
 # curso de programacion y plataformas web
 
